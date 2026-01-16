@@ -1,0 +1,211 @@
+{
+  "projectVersion": 1,
+  "files": [
+    "com.bp.statis.bloodsugar.apk"
+  ],
+  "treeExpansions": [
+    [
+      "Source code",
+      "com.bp.statis.bloodsugar.apk"
+    ],
+    [
+      "com",
+      "Source code",
+      "com.bp.statis.bloodsugar.apk"
+    ],
+    [
+      "p062bp.statis.bloodsugar",
+      "com",
+      "Source code",
+      "com.bp.statis.bloodsugar.apk"
+    ],
+    [
+      "Resources",
+      "com.bp.statis.bloodsugar.apk"
+    ],
+    [
+      "Resources",
+      "com.bp.statis.bloodsugar.apk"
+    ],
+    [
+      "Resources",
+      "com.bp.statis.bloodsugar.apk"
+    ],
+    [
+      "Resources",
+      "com.bp.statis.bloodsugar.apk"
+    ],
+    [
+      "Resources",
+      "com.bp.statis.bloodsugar.apk"
+    ],
+    [
+      "Resources",
+      "com.bp.statis.bloodsugar.apk"
+    ],
+    [
+      "p000",
+      "Source code",
+      "com.bp.statis.bloodsugar.apk"
+    ],
+    [
+      "p003b",
+      "Source code",
+      "com.bp.statis.bloodsugar.apk"
+    ],
+    [
+      "p064d",
+      "Source code",
+      "com.bp.statis.bloodsugar.apk"
+    ],
+    [
+      "d.b",
+      "p064d",
+      "Source code",
+      "com.bp.statis.bloodsugar.apk"
+    ],
+    [
+      "Resources",
+      "com.bp.statis.bloodsugar.apk"
+    ],
+    [
+      "d.b",
+      "p064d",
+      "Source code",
+      "com.bp.statis.bloodsugar.apk"
+    ]
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": [
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "androidx.multidex.MultiDex"
+        },
+        "newName": "MultiDex"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "d.b"
+        },
+        "newName": "b"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "d.b",
+          "shortId": "o()V"
+        },
+        "newName": "o"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "d.b",
+          "shortId": "p(Ljava/lang/String;)Ljava/lang/String;"
+        },
+        "newName": "p"
+      }
+    ]
+  },
+  "openTabs": [
+    {
+      "type": "class",
+      "tabPath": "com.bp.statis.bloodsugar.MainActivity",
+      "subPath": "java",
+      "caret": 1234,
+      "view": {
+        "x": 0,
+        "y": 3196
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false
+    },
+    {
+      "type": "resource",
+      "tabPath": "AndroidManifest.xml",
+      "subPath": "",
+      "caret": 1545,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false
+    },
+    {
+      "type": "class",
+      "tabPath": "androidx.multidex.MultiDexApplication",
+      "subPath": "java",
+      "caret": 312,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false
+    },
+    {
+      "type": "class",
+      "tabPath": "b.f.k.d",
+      "subPath": "smali",
+      "caret": 0,
+      "view": {
+        "x": 1,
+        "y": 312
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false
+    },
+    {
+      "type": "class",
+      "tabPath": "d.b",
+      "subPath": "java",
+      "caret": 23127,
+      "view": {
+        "x": 0,
+        "y": 4476
+      },
+      "active": true,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false
+    },
+    {
+      "type": "class",
+      "tabPath": "d.a",
+      "subPath": "java",
+      "caret": 460,
+      "view": {
+        "x": 0,
+        "y": 976
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false
+    }
+  ],
+  "cacheDir": "/Users/rl/Library/Caches/io.github.skylot.jadx/projects/com.bp.statis.bloodsugar-8cf8c6cca30eded9baa3a56ad3110751",
+  "enableLiveReload": false,
+  "searchHistory": [
+    "addJavascriptInterface",
+    "import java.lang.reflect",
+    "completed",
+    "boot",
+    "RECEIVE_BOOT_COMPLETED",
+    "contact",
+    "https://"
+  ],
+  "pluginOptions": {}
+}
